@@ -1,0 +1,16 @@
+
+#main-header{
+			text-align: center;
+			background-color: black;
+			color: white;
+			padding: 10px;
+}
+
+#main-footer{
+			text-align: center;
+			font-size: 18px;
+
+}
+
+li{
+	list-style: none;
